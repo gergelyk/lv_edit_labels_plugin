@@ -53,7 +53,9 @@ https://github.com/gergelyk/lv_edit_labels_plugin
 Tutorial
 --------
 
-[![Tutorial](https://img.youtube.com/vi/XlQra-4kA2U/0.jpg)](https://youtu.be/XlQra-4kA2U)
+.. image:: https://img.youtube.com/vi/XlQra-4kA2U/0.jpg
+   :alt: Tutorial
+   :target: https://youtu.be/XlQra-4kA2U
 
 Predefined Scripts
 ------------------
