@@ -55,9 +55,7 @@ Tutorial
 
 .. raw:: html
 
-   <iframe width="320" height="240"
-   src="https://www.youtube.com/embed/XlQra-4kA2U">
-   </iframe>
+   <embed src="https://www.youtube.com/embed/XlQra-4kA2U">
 
 Predefined Scripts
 ------------------
