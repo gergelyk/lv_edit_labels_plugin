@@ -53,9 +53,11 @@ https://github.com/gergelyk/lv_edit_labels_plugin
 Tutorial
 --------
 
-.. raw:: html
+Click below to play video!
 
-   <embed src="https://www.youtube.com/embed/XlQra-4kA2U">
+.. image:: https://img.youtube.com/vi/XlQra-4kA2U/0.jpg
+   :alt: Tutorial
+   :target: https://youtu.be/XlQra-4kA2U
 
 Predefined Scripts
 ------------------
